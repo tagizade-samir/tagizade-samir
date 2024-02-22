@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working in [AndersenLab](https://andersenlab.com/)
 
-- 🌱 Working on couple of personal projects
+- 👯 Working on couple of personal projects
 
-- 👯 I’m looking to collaborate on **any interesting projects**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React, React Native, TypeScript, JavaScript**
 
